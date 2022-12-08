@@ -1,6 +1,6 @@
 # 게시판 프로젝트
 <h2>1. API 설계</h2>
-<img width="502" alt="스크린샷_20221201_022916" src="https://user-images.githubusercontent.com/100077017/204973459-33b6e630-be8c-4204-8cfd-70da436832c7.png">
+<img width="506" alt="스크린샷_20221208_072436" src="https://user-images.githubusercontent.com/100077017/206423019-4671bb63-dae3-4abe-b2ca-c24685e1246b.png">
 <br>
 <h2>2. Usecase</h2>
 <img width="459" alt="스크린샷_20221201_024620" src="https://user-images.githubusercontent.com/100077017/204975428-cbf876df-e75c-43af-b512-c14aa1c3277e.png">

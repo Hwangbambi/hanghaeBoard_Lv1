@@ -3,10 +3,7 @@
 <img width="504" alt="스크린샷_20221208_080617" src="https://user-images.githubusercontent.com/100077017/206431448-599eecc9-2935-42fc-97b6-0eb3f5eacdcb.png">
 <img width="564" alt="스크린샷_20221208_073549" src="https://user-images.githubusercontent.com/100077017/206425249-43013312-071c-499a-be46-9e5cc1362a91.png">
 <br>
-<h2>2. Usecase</h2>
-<img width="459" alt="스크린샷_20221201_024620" src="https://user-images.githubusercontent.com/100077017/204975428-cbf876df-e75c-43af-b512-c14aa1c3277e.png">
-<br>
-<h2>3. 구현내용</h2>
+<h2>2. 구현내용</h2>
 1) 회원 가입 API<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- username, password를 Client에서 전달받기<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- username은  `최소 4자 이상, 10자 이하이며 알파벳 소문자(a~z), 숫자(0~9)`로 구성<br>
